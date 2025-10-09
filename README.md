@@ -76,7 +76,7 @@ Siga as instruções abaixo para rodar o projeto em sua máquina local.
 ## 👨‍💻 Autor
 
 
-Feito  por [Junior Berardo] e [Ivan Arcanjelo Junior]
+Feito  por [Junior Ivair Berardo] e [Ivan Arcanjelo Junior]
 
 ---
 
